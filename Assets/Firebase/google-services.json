@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "773043625238",
+    "firebase_url": "https://roadtovalor-220315.firebaseio.com",
+    "project_id": "roadtovalor-220315",
+    "storage_bucket": "roadtovalor-220315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773043625238:android:63f5d3789b9e0f1e",
+        "android_client_info": {
+          "package_name": "com.dreamotion.roadtovalor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773043625238-vruncng0767oif0t1k1moct47ukb7i80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamotion.roadtovalor",
+            "certificate_hash": "f310afaab22387bfd28b217b6c62b3a8de603f16"
+          }
+        },
+        {
+          "client_id": "773043625238-oifi5lk7qsp3ttcbm9k8bvcdp2a6lrju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZkfCy5hX6QH9vfxvDNkqGM5WUZhgLD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773043625238-oifi5lk7qsp3ttcbm9k8bvcdp2a6lrju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773043625238-r1fn831mgffig0uorh5mvl18li3m94j2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamotion.roadtovalor.dev"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2049973176445183~5082069662"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773043625238:android:ed298bfe2cded018",
+        "android_client_info": {
+          "package_name": "com.dreamotion.roadtovalor.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773043625238-oifi5lk7qsp3ttcbm9k8bvcdp2a6lrju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZkfCy5hX6QH9vfxvDNkqGM5WUZhgLD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773043625238-oifi5lk7qsp3ttcbm9k8bvcdp2a6lrju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773043625238-r1fn831mgffig0uorh5mvl18li3m94j2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamotion.roadtovalor.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
